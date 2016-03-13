@@ -1,0 +1,24 @@
+{
+  "name": "node-cb",
+  "version": "0.0.0",
+  "description": "Convert Jquery style success and error cb's to node style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/node-cb.git"
+  },
+  "keywords": [
+    "jquery",
+    "node",
+    "callback"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/node-cb/issues"
+  },
+  "homepage": "https://github.com/nichoth/node-cb#readme"
+}
