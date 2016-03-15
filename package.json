@@ -1,6 +1,6 @@
 {
   "name": "node-cb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert Jquery style success and error cb's to node style",
   "main": "index.js",
   "scripts": {
